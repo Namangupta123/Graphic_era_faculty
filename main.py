@@ -11,7 +11,7 @@ import os
 
 load_dotenv()
 st.set_page_config(
-    page_title="Graphic Era ChatBot",
+    page_title="Faculty BioGen",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="auto",
@@ -19,7 +19,17 @@ st.set_page_config(
         'About': 'Hello'
     }
 )
+# Disclaimer Section. 
+with st.expander("Disclaimer"):
+    st.markdown(
+        """
+        This application leverages AI to provide information and results. However, AI models may produce incorrect, outdated, or incomplete responses.
+        Users are advised to cross-check and verify any critical information independently.
+        """,
+        unsafe_allow_html=True,
+    )
 
+# Loading Text File
 TEXT_FILE_PATH = "GraphicEraFaculty.txt"
 
 def text_file_to_text(text_file):
@@ -89,8 +99,8 @@ def generate_answer(question, retriever):
         return None
 
 def main():
-    st.header("Graphic Era Faculty ChatBot")
-    st.write("Hello, welcome! Feel free to ask me anything about any faculty of CSE department.")
+    st.header("Faculty BioGen")
+    st.write("Hello, welcome! Feel free to ask anything about any faculty of Computer Science department.")
 
     question = st.text_input("Ask a question:")
 
