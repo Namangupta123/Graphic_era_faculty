@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_community.llms import Cohere
+from langchain_cohere import ChatCohere
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -66,7 +66,7 @@ def format_docs(docs):
 
 def generate_answer(question, retriever):
     try:
-        cohere_llm = Cohere(model="command", temperature=0.1, cohere_api_key='2NxXj9EgaIIP4UpQbFbDiUgbc04pAn4mvq07eNXn')
+        cohere_llm = ChatCohere(model="command", temperature=0.1, cohere_api_key='2NxXj9EgaIIP4UpQbFbDiUgbc04pAn4mvq07eNXn')
 
         prompt_template = """Answer the question as broadly as possible using the provided context. If the answer is
                         not contained in the context, say "Sorry the answer is not available in context" "\n\n
