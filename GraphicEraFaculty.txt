@@ -4,38 +4,38 @@ Prof. Ghanshala is a proactive chancellor and a teacher par excellence. He is in
 He has received wide spread recognition for his leadership qualities and management acumen. 
 He is also an avid sportsman
 
-2. Dr. Devesh Pratap Singh(Head of Department)
-He is "Head of Department(HOD)".
+2. Dr. Devesh Pratap Singh (Head of Department)
+Dr. Devesh Pratap singh is the "Head of Department(HOD)".
 Dr. Devesh Pratap Singh is a Professor in the Department of Computer Science and Engineering
 Dr. Devesh Pratap Singh is a distinguished professional in the field of Computer Science and Engineering, with a robust academic background and extensive research contributions. Holding a M.Tech in Computer Science and Engineering from Uttarakhand Technical University, Dehradun, India, and a Ph.D. in the same discipline from Graphic Era Deemed to be University, Dehradun, Dr. Singh has established himself as a prominent figure in the academic community.
 Currently serving as a Professor in the Department of Computer Science and Engineering at Graphic Era Deemed to be University, Dehradun, India, Dr. Singh plays a pivotal role in shaping the next generation of computer scientists. His dedication to education is reflected in his commitment to fostering a dynamic learning environment and guiding students in their academic and research pursuits.
 Dr. Singh’s research interests span a wide array of cutting-edge topics, including Bio-inspired algorithms, security, Internet of Things (IoT), and Wireless Sensor Networks. His scholarly endeavors have resulted in the publication of over 129 papers in renowned international journals and conferences, showcasing the depth and breadth of his contributions to the field.
 As a senior member of the Institute of Electrical and Electronics Engineers (IEEE), Dr. Singh is actively engaged in the global scientific community.
 
-3. Prof. (Dr.) Durgaprasad Gangodkar(Professor)
+3. Prof. (Dr.) Durgaprasad Gangodkar (Professor)
 Prof. Gangodkar has a professional experience of more than 25 years. He worked with a renowned German Multinational Siemens Ltd., for around 6 years. Where he was involved in developing software solutions using Real-time operating systems for various industries in India and abroad. His excellence was rewarded with Distinguished Employee Award at Siemens Ltd. Over the past 20 years, he is involved in research, teaching various courses at UG and PG level; guided research scholars, projects at UG and PG level.
 He has contributed many novel techniques in varied fields of research resulting in patents and publications in reputed international conferences and high impact factor journals including IEEE Transactions, Springer, Elsevier, Taylor and Francis and so on..
 Prof. Gangodkar has been instrumental in developing various computing and research facilities including a Private Cloud computing facility, Hadoop Cluster for storage and analysis of Big Data, MPI Cluster for distributed computing, Multicore computing facility and so on..
 Prof. Gangodkar has been associated with Graphic Era for the past 18 years in various capacities, including Member Board of Management, Member Academic council, Dean Engineering, Dean Research, Head Dept. of CSE, University Coordinator NAAC, NBA and so on. Currently he is working as Dean Academics, Dean International Affairs and Professor at the Department of Computer Science and Engineering, Graphic Era Deemed to be University
 
-4. Dr. Sushil Chandra Dimri(Professor)
+4. Dr. Sushil Chandra Dimri (Professor)
 Dr. Sushil Chandra Dimri has the 4 year Industry experience and his teaching experience is more than 23 years. He authored 10 books on Mathematics and Computer Science for UG and PG students and guided many projects at UG and PG level.
 Dr. Dimri guided 5 PhD’s and 4-PhD Scholars are working under his supervision. His areas of interest are Machine learning techniques, Designing algorithms and Resource Optimization. He is editor, reviewer for many reputed journals, He has more than 80 research publications in national and international journals, along with 5 published patents.
 
-5. Dr. Surender Singh Samant(Professor)
+5. Dr. Surender Singh Samant (Professor)
 Dr. Surender Singh Samant has been affiliated with the Department of Computer Science and Engineering (CSE) at Graphic Era Deemed to be University since September 30 2024. He has worked previously with renowned institutions such as Sun Microsystems (3 years) and BITS Pilani (8 years).
 He teaches Computer Science subjects such as Unix System Programming, Operating Systems, and Natural Language Processing. He is supervising three doctoral students. He likes to spend his free time training Large Language Models for leading AI companies, using technologies such as RLHF.
 
-6. Dr. Santosh Kumar(Professor)
+6. Dr. Santosh Kumar (Professor)
 Santosh Kumar earned his Ph.D. from India Institute of Technology, Roorkee, India in 2012, M.Tech. in Computer Science and Engineering from Aligarh Muslim University, Aligarh, India in 2007 and B.E. (IT) from C.C.S. University, Meerut, India in 2003. 
 He has more than 18 years of experience in teaching/research of UG (B. Tech.) and PG (MTech/PhD) level courses as a Lecturer/Assistant Professor/ Associate Professor/Professor in various academic /research organizations. 
 He has supervised 05 Ph.D. Thesis and 28 MTech Dissertation and presently mentoring 07 Ph.D. students and 02 MTech students. He has also completed a consultancy project titled “MANET Architecture Design for Tactical Radios” of DRDO, Dehradun in between 2009-2011. He is an active reviewer board member in various national/International Journals and Conferences. He has memberships of ACM (Senior Member), IAENG, ACEEE, ISOC (USA) and contributed more than 100 research papers in National and International Journals/conferences in the field of Wireless Communication Networks, WSN, IoT, Machine Learning, Grid Computing and Software Engineering. Currently holding a position of Professor in the Department of Computer Science and Engineering, Graphic Era Deemed to be University, Dehradun, India. His research interest includes Wireless Networks, WSN, IoT, AI & Machine Learning, Software Engineering.
 
-7. Dr. Bhasker Pant(Professor)
+7. Dr. Bhasker Pant (Professor)
 Dr. Bhasker Pant holds a Ph.D. from Maulana Azad National Institute of Technology (M.A.N.I.T., Bhopal) and has been affiliated with the Department of Computer Science and Engineering (CSE) at Graphic Era Deemed to be University since August 12, 2010. With over 18 years of experience in research and academia, he has supervised 7 Ph.D. candidates (awarded) and 3 candidates in an advanced stage of their work. He has also supervised 28 M. Tech. students for their dissertations.
 Currently serving as the Director of Research and Professor in the Department of Computer Science and Engineering, He has more than 100 research publications in national and international journals, along with 2 granted patents and 20 published works.
 
-8. Dr. Mohammad Wazid(Professor)
+8. Dr. Mohammad Wazid (Professor)
 Dr. MOHAMMAD WAZID has received his Master of Technology in Computer Network Engineering from Graphic Era University, Dehradun, India. 
 He has also received a Ph.D. in Computer Science and Engineering from the International Institute of Information Technology, Hyderabad, India. 
 He is currently working as a Professor in the Department of Computer Science and Engineering, at Graphic Era University, Dehradun, India. 
@@ -58,7 +58,7 @@ He was awarded a PhD degree from Indian Institute of Information Technology Alla
 Prof. (Dr.) Sachin Sharma, Associate Dean, International Affairs and Professor, Department of Computer Science and Engineering at Graphic Era Deemed to be University, Dehradun, Uttarakhand, India. 
 He has experience of 15+ years in industry and academia. He is also Co-founder and Chief Technology officer (CTO) of IntelliNexus LLC, Arkansas, USA based company. He also worked as a Senior Systems Engineer at Belkin International, Inc., Irvine, California, USA. He received his Philosophy of Doctorate (Ph.D.) degree in Engineering Science and Systems specialization in Systems Engineering from University of Arkansas at Little Rock, USA with 4.0 out 4.0 GPA and M.S. degree in Systems engineering from University of Arkansas at Little Rock with 4.0 out 4.0 GPA.  Dr. Sharma has authored/coauthored over 250 publications in the form of books, patents, and papers in refereed journals and conference proceedings. He holds 50+ US, Indian and international patents in the area of IoT, wireless communication and AI.  He has also served as a Guest Reviewer for several Special issues of IEEE/ACM Transactions. His research interests include 6G wireless communication networks, Cloud Computing, Artificial Intelligence, Quantum Computing, IoT, Vehicular ad hoc networking and Cyber security.
 
-13. Dr. Jay R. Bhatnagar(Professor)
+13. Dr. Jay R. Bhatnagar (Professor)
 He received PhD from Indian Institute of Technology Delhi. He has joined Department of CSE, Graphic Era Deemed to be University as on March 2023. He has Industry, Teaching and Academic research experience. 
 He has worked as academic Faculty member for around 14 years. His interests are in developing commercial problems towards start-ups, academic problems that are at the cusp of Theory and Applications rooted in Data – Information sciences, Computing, Control, Communication for real-world applications. Interested may directly write to the email id or meet in person.
 
@@ -66,11 +66,11 @@ He has worked as academic Faculty member for around 14 years. His interests are 
 He holds a Ph.D. in Computer Science and Engineering from the Indian Institute of Technology (IIT), Roorkee, and earned his M.Tech degree from the School of Information Technology at the Indian Institute of Technology (IIT), Kharagpur. 
 With extensive experience in both academia and industry, he has contributed significantly to teaching and research. He has served as a faculty member for over 11 years, alongside more than 3 years in the industry. Currently, he holds the position of Associate Professor in the Department of Computer Science and Engineering at Graphic Era University, Dehradun. Previously, he held the role of Senior Chief Engineer at the Samsung Research Institute in Bangalore. Before joining Samsung Research, he held a position of assistant professor at Institute of National Importance, Indian Institute of Information Technology (IIIT) Dharwad. Additionally, he worked as an Assistant Professor at the Department of Computer Science and Information Systems at Birla Institute of Technology and Science, Pilani (BITS Pilani). Furthermore, he conducted research on recommendation systems using microblogs for IBM Watson labs at IBM Bangalore for a year. His research interests primarily lie in deep learning, machine learning and training large neural networks.
 
-15. Dr. Manoj Diwakar(Professor)
+15. Dr. Manoj Diwakar ( Professor)
 Dr. Manoj Diwakar is working as Professor in the Department of Computer Science and Engineering at Graphic Era Deemed to be University, Dehradun. 
 His research interests include image processing, information security and medical imaging. He has published more than 200+ research papers in peer-reviewed journals, conferences, books and book chapters with national and international publishers of repute such as IEEE, Springer and Elsevier. He has also served as guest editor/associate editor/editorial member of many reputable journals and organized many international conferences. Dr. Diwakar’s editorial expertise is evidenced by his role as an Associate Editor, Academic Editor, and Guest Editor for prominent journals published by Elsevier, SPIE, and Bentham Science, among others. He has also served as a book editor for leading international publishers such as Springer, Elsevier, CRC Press, and Bentham Science. Furthermore, he regularly serves as a reviewer for renowned journals, including IEEE Transactions, Elsevier, Springer, and Inderscience publications.
 
-16. Dr. Vaishali R. Kulkarni(Professor)
+16. Dr. Vaishali R. Kulkarni (Professor)
 is a seasoned academic with expertise in Computational Intelligence, Artificial Intelligence, and Bio-inspired Optimization Algorithms. He earned his Ph.D. in Computer Science and Engineering from Visvesvaraya Technological University (VTU), Belagavi, Karnataka, in 2020, following an M.Tech. in Computer Science and Engineering from VTU in 2010 and a B.E. in Computer Science and Engineering from Karnatak University, Dharwad, in 1993.
 Dr. Vaishali is actively involved in professional communities, holding a Senior Membership in IEEE, and is a Life Member of both the Indian Society for Technical Education (ISTE) and the Computer Society of India (CSI).
 His extensive academic background, coupled with his involvement in professional organizations, underscores his contributions to the fields of computer science and engineering, particularly in advanced areas like AI and bio-inspired computational methods.
@@ -96,17 +96,17 @@ Dr. Manish Sharma is an accomplished academic with expertise in Social Network A
 Dr. Sharma is an active member of several professional organizations, including IEEE (Membership ID: 94128401), the Indian Society for Technical Education (ISTE) (Membership ID: LM52056), and the Association for Computing Machinery (ACM) (Membership ID: 7405685).
 His academic background, combined with his professional affiliations, highlights his contributions to cutting-edge fields in computer science and engineering.
 
-21. Dr. Vikas Tripathi(Professor)
+21. Dr. Vikas Tripathi (Professor)
 Dr. Vikas Tripathi Currently working as an Associate Dean Research & Development and Professor in Department of Computer Science and Engineering, Graphic era deemed to be university Dehradun, India. He is Ph.D. in Computer Science and Engineering with specialization in computer vision. He has more than 15 years of experience in Research and Academics. He has till now guided 2 Ph.D. candidates (Awarded) as Supervisor and 3 candidates are in advance stage of work. He has also guided more than 24 MTech. Students for dissertation and supervised 5 foreign students for internship. He is actively involved in research related to software engineering, Machine Learning, Computer Vision and Video Analytics. Dr. Vikas Tripathi has more than 150 research publication in National and international Journals/ Conferences and Granted 2 patents along with published more than 30 Indian patents.
 
-22. Dr. Prakash Srivastava(Professor)
+22. Dr. Prakash Srivastava (Professor)
 Dr. Prakash Srivastava holds a Ph.D. from MMMEC Gorakhpur and has been affiliated with the Department of Computer Science and Engineering (CSE) at Graphic Era (Deemed to be University) since March 10, 2022. With around 15 years of experience including teaching and research, he is currently supervising 3 Ph.D. candidates out of which 1 candidate in an advanced stage of their work. He has also supervised 2 M. Tech. students for their dissertations.
 Currently serving as the Professor in the Department of Computer Science and Engineering, he has more than 50 research publications in reputed international journals and conferences of high repute. Apart from teaching and learning, he is also contributing actively in departmental administrative responsibilities including Class Coordinator, Faculty Coordinator-Google Cloud Computing Foundation etc,.
 
-23. Dr. Kamlesh Chandra Purohit(Professor)
+23. Dr. Kamlesh Chandra Purohit (Professor)
 Dr. Kamlesh Chandra Purohit a Ph.D. and M.Tech. Computer Science and engineering from Graphic era deemed to be University Dehradun and has been affiliated with the Department of Computer Science and Engineering (CSE) at Graphic Era Deemed to be University since September 7, 2005. With over 19 years of experience in research and academia, he has supervised 5 Ph.D. candidates. He has also supervised 15 M.Tech. students for their dissertations. Currently serving as Professor in the Department of Computer Science and Engineering, He has more than 40 research publications in national and international journals, along with 2 granted patents and 4 published works. He has published many book chapters. He is a reviewer of various Journals and Conference Proceedings.
 
-24. Dr. Dinesh Chandra Dobhal(Professor)
+24. Dr. Dinesh Chandra Dobhal (Professor)
 Dr. Dinesh Chandra Dobhal has been a dedicated faculty member of Graphic Era University since Aug 2006, contributing extensively to teaching, research, and academic excellence in the Computer Science and Engineering Department.
 Dr. Dobhal specializes in areas such as Artificial Intelligence, Machine Learning, IoT, Cybersecurity, and Software Engineering. His current focus includes AI-driven solutions for healthcare, cybersecurity, and IoT applications.
 He has authored several research papers in peer-reviewed international journals and conferences, focusing on emerging technologies and their real-world applications. He is also contributing to books and edited volumes on AI and its interdisciplinary applications.
