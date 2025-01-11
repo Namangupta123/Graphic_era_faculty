@@ -1,6 +1,6 @@
 streamlit
 langchain
-langchain-cohere
+langchain-cohere>=0.3.4
 langchain-community
 langchain-huggingface
 langchain-text-splitters
