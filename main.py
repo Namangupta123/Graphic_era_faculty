@@ -10,7 +10,8 @@ import os
 import re
 
 load_dotenv()
-Cohere_AI=os.getenv("COHERE_API_KEY")
+#Cohere_AI=os.getenv("COHERE_API_KEY")
+Cohere_API=st.secrets["API_KEYS"]["COHERE_API_KEY"]
 st.set_page_config(
     page_title="Faculty BioGen",
     page_icon="🤖",
@@ -73,7 +74,7 @@ def format_docs(docs):
 
 def generate_answer(question, retriever):
     try:
-        cohere_llm=ChatCohere(model="command-r7b-12-2024", cohere_api_key=Cohere_AI, temperature=0.3)
+        cohere_llm=ChatCohere(model="command-r7b-12-2024", cohere_api_key=Cohere_API, temperature=0.3)
         prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible.
 	                        •	If the question asks about a specific faculty member, summarize their profile based on the available information.
                             •	If the question asks about a Certain information, extract and present the details from the context.
