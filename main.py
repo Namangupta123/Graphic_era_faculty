@@ -20,7 +20,7 @@ st.set_page_config(
         'About': 'Hello'
     }
 )
-# Disclaimer Section. 
+
 with st.expander("Disclaimer"):
     st.markdown(
         """
@@ -30,7 +30,7 @@ with st.expander("Disclaimer"):
         unsafe_allow_html=True,
     )
 
-# Loading Text File
+
 TEXT_FILE_PATH = "GraphicEraFaculty.txt"
 
 def text_file_to_text(text_file):
@@ -47,10 +47,7 @@ def text_file_to_text(text_file):
 
 def text_splitter(raw_text):
     try:
-        # Split text at points where a new faculty entry begins (number followed by period)
         chunks = re.split(r'\n(?=\d+\.)', raw_text)
-        
-        # Remove empty chunks and strip whitespace
         cleaned_chunks = [chunk.strip() for chunk in chunks if chunk.strip()]
         
         return cleaned_chunks
