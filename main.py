@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_cohere import ChatCohere
+from langchain_mistralai import ChatMistralAI
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.prompts import PromptTemplate
@@ -10,7 +10,7 @@ import os
 import re
 
 load_dotenv()
-Cohere_AI=os.getenv("COHERE_AI_API_KEY")
+Mistral_AI=os.getenv("MISTRAL_AI_API_KEY")
 st.set_page_config(
     page_title="Faculty BioGen",
     page_icon="🤖",
@@ -73,10 +73,11 @@ def format_docs(docs):
 
 def generate_answer(question, retriever):
     try:
-        cohere_llm = ChatCohere(model="command-r7b-12-2024", temperature=0.1, cohere_api_key=Cohere_AI)
+        mistral_llm=ChatMistralAI(model="mistral-large-latest", mistral_api_key=Mistral_AI, max_tokens=10000, temperature=0.3)
 
         prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible.
 	                        •	If the question asks about a specific faculty member, summarize their profile based on the available information.
+                            •	If the question asks about a Certain information, extract and present the details from the context.
 	                        •	If the question relates to a faculty member’s research area or achievements, extract and present relevant details from the context.
 	                        •	If the requested information is not found in the context, respond with: ‘Sorry, the requested information is not available in the provided context.’
                         Context: \n {context} \n\n
@@ -88,7 +89,7 @@ def generate_answer(question, retriever):
         rag_chain = (
             {"context": retriever | format_docs, "question": RunnablePassthrough()}
             | prompt
-            | cohere_llm
+            | mistral_llm
             | StrOutputParser()
         )
 
