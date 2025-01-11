@@ -117,7 +117,7 @@ def main():
             if vectorstore is None:
                 return
 
-            retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+            retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 2})
 
             if question:
                 answer = generate_answer(question, retriever)
