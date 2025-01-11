@@ -1,5 +1,6 @@
 streamlit
-langchain_mistralai
+cohere
+langchain_cohere
 faiss-cpu
 sentence-transformers
 langchain_community
