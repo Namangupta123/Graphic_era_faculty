@@ -8,8 +8,10 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
 import os
+import re
 
 load_dotenv()
+Cohere_AI=os.getenv("COHERE_AI_API_KEY")
 st.set_page_config(
     page_title="Faculty BioGen",
     page_icon="🤖",
@@ -46,14 +48,13 @@ def text_file_to_text(text_file):
 
 def text_splitter(raw_text):
     try:
-        text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=300,
-            chunk_overlap=100,
-            length_function=len,
-            separators=['\n', '\n\n', ' ', ',']
-        )
-        chunks = text_splitter.split_text(text=raw_text)
-        return chunks
+        # Split text at points where a new faculty entry begins (number followed by period)
+        chunks = re.split(r'\n(?=\d+\.)', raw_text)
+        
+        # Remove empty chunks and strip whitespace
+        cleaned_chunks = [chunk.strip() for chunk in chunks if chunk.strip()]
+        
+        return cleaned_chunks
     except Exception as e:
         st.error(f"An error occurred while splitting the text: {e}")
         return None
@@ -76,10 +77,12 @@ def format_docs(docs):
 
 def generate_answer(question, retriever):
     try:
-        cohere_llm = ChatCohere(model="command", temperature=0.1, cohere_api_key='2NxXj9EgaIIP4UpQbFbDiUgbc04pAn4mvq07eNXn')
+        cohere_llm = ChatCohere(model="command-r7b-12-2024", temperature=0.1, cohere_api_key=Cohere_AI)
 
-        prompt_template = """Answer the question as broadly as possible using the provided context. If the answer is
-                        not contained in the context, say "Sorry the answer is not available in context" "\n\n
+        prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible.
+	                        •	If the question asks about a specific faculty member, summarize their profile based on the available information.
+	                        •	If the question relates to a faculty member’s research area or achievements, extract and present relevant details from the context.
+	                        •	If the requested information is not found in the context, respond with: ‘Sorry, the requested information is not available in the provided context.’
                         Context: \n {context} \n\n
                         Question: \n {question} \n
                         Answer:"""
@@ -100,7 +103,7 @@ def generate_answer(question, retriever):
 
 def main():
     st.header("Faculty BioGen")
-    st.write("Hello, welcome! Feel free to ask anything about any faculty of Computer Science department.")
+    st.write("Hello, welcome! Feel free to ask anything about any faculty of the Computer Science department.")
 
     question = st.text_input("Ask a question:")
 
