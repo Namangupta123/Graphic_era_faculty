@@ -1,8 +1,8 @@
 streamlit
-langchain-mistralai
+langchain_mistralai
 faiss-cpu
 sentence-transformers
-langchain-community
-langchain-core
-langchain-huggingface
+langchain_community
+langchain_core
+langchain_huggingface
 python-dotenv
