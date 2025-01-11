@@ -1,0 +1,10 @@
+streamlit
+langchain-cohere
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+python-dotenv
+faiss-cpu
+sentence-transformers
+cohere
