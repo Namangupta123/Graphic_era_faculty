@@ -1,10 +1,8 @@
 streamlit
-cohere
-langchain
-langchain_cohere>=0.3.4
-langchain_community
-langchain_huggingface
-langchain_core
-python-dotenv
+langchain-mistralai
 faiss-cpu
 sentence-transformers
+langchain-community
+langchain-core
+langchain-huggingface
+python-dotenv
