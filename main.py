@@ -75,14 +75,19 @@ def format_docs(docs):
 def generate_answer(question, retriever):
     try:
         cohere_llm=ChatCohere(model="command-r7b-12-2024", cohere_api_key=Cohere_API, temperature=0.3)
-        prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible.
-	                        •	If the question asks about a specific faculty member, summarize their profile based on the available information.
-                            •	If the question asks about a Certain information, extract and present the details from the context.
-	                        •	If the question relates to a faculty member’s research area or achievements, extract and present relevant details from the context.
-	                        •	If the requested information is not found in the context, respond with: ‘Sorry, the requested information is not available in the provided context.’
-                        Context: \n {context} \n\n
-                        Question: \n {question} \n
-                        Answer:"""
+        prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible:
+                                - If the question asks about a specific faculty member, summarize their profile based on the available information.
+                                - If the question asks about a certain piece of information (e.g., research areas, achievements, roles, or designations like HOD), extract and present the relevant details from the context.
+                                - If the question asks about faculty members in a specific role (e.g., "Who is the HOD?"), identify and present the corresponding faculty member and their designation from the context.
+                                - If the requested information is not found in the context, respond with: "Sorry, the requested information is not available in the provided context."
+
+                            Context: 
+                            {context}
+                            
+                            Question: 
+                            {question}
+                            
+                            Answer:"""
 
         prompt = PromptTemplate.from_template(template=prompt_template)
 
