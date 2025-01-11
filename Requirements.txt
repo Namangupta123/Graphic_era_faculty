@@ -1,4 +1,5 @@
 streamlit
+cohere
 langchain
 langchain_cohere>=0.3.4
 langchain_community
