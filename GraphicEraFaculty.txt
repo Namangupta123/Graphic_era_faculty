@@ -3,6 +3,7 @@ Prof.(Dr) Kamal Ghanshala is an engineer, entrepreneur and a philanthropist and 
 Prof. Ghanshala is a proactive chancellor and a teacher par excellence. He is inarguably, one of the leading experts in teaching of Computer Aided Design (CAD) and ‘C’ language. His plethora of knowledge is not just confined to the four walls of university but also reflected in many research papers he has written and for which he has been felicitated, at national and international levels, such as in Croatia, Denmark, Johannesburg, Turkey, London, Paris Germany and Thailand. He has received wide spread recognition for his leadership qualities and management acumen. He is also an avid sportsman
 
 2. Dr. Devesh Pratap Singh(Professor)
+Head of Department of Computer Science in graphic era deemed campus.
 Dr. Devesh Pratap Singh is a Professor in the Department of Computer Science and Engineering
 Dr. Devesh Pratap Singh is a distinguished professional in the field of Computer Science and Engineering, with a robust academic background and extensive research contributions. Holding a M.Tech in Computer Science and Engineering from Uttarakhand Technical University, Dehradun, India, and a Ph.D. in the same discipline from Graphic Era Deemed to be University, Dehradun, Dr. Singh has established himself as a prominent figure in the academic community.
 Currently serving as a Professor in the Department of Computer Science and Engineering at Graphic Era Deemed to be University, Dehradun, India, Dr. Singh plays a pivotal role in shaping the next generation of computer scientists. His dedication to education is reflected in his commitment to fostering a dynamic learning environment and guiding students in their academic and research pursuits.
@@ -68,7 +69,6 @@ He is actively involved in professional communities, serving as a Senior Member 
 Prof. (Dr.) Anil Kumar Baliga is a distinguished academic specializing in VLSI and Organic Electronics. He holds a Ph.D. in ECE from Graphic Era University, an M.Tech. in ECE from IIT Powai, Bombay, and a B.E. in ECE from Malnad College of Engineering, Karnataka.
 Dr. Baliga has been recognized for his contributions through awards such as the Workshop on Interactive Multimedia & Intelligent Services in Mobile and Ubiquitous Computing, held at Korean Bible University, Seoul, Korea.
 He is an active member of several professional organizations, including IEEE, ACM, Computer Society of India (CSI), and AICTE, and is a life member of the Indian Society for Technical Education (ISTE).
-
 Dr. Baliga’s extensive expertise, academic background, and professional affiliations highlight his significant contributions to the field of electronics and communication engineering.
 Dr. Vijay Singh is an accomplished academic and researcher with a PhD from Graphic Era Deemed to be University and a Bachelor of Engineering (B.E. CSE) with honors from Dr. B.R. Ambedkar University, Agra. Currently, 
 he serves as a Research Fellow in the Department of Electrical and Computer Engineering at the National University of Singapore, Singapore. 
@@ -263,3 +263,243 @@ M.Tech
 65. Mr. Krishna Yadav	(Assistant Professor)	
 Education->
 M.Tech
+
+66. Mr. Navin Garg	(Associate Professor)	
+Education->
+M.Tech
+
+67. Mr. Navin Garg	(Associate Professor)	
+Education->
+M.Tech
+
+68. Mr. Darshan Singh	(Assistant Professor)
+Education->
+M.Tech
+
+69. Mr. Jyotir Moy Chatterjee	(Assistant Professor)	
+Education->
+M.Tech
+
+70. Mr. Navneet Kumar Rajpoot	(Assistant Professor)	
+Education->
+M.Tech
+
+71.Dr. Mansi Sharma	(Assistant Professor)
+Education->	
+Ph.D
+
+72. Ms. Ashwini Yeole	(Assistant Professor)	
+Education->
+M.Tech
+
+73. Ms. Geeta U. Navalyal	(Assistant Professor)
+Education->	
+M.Tech
+
+74. Mr. Bhawnesh Kumar	(Assistant Professor)	
+Education->
+M.Tech
+
+75. Dr. Sakshi Gupta	(Assistant Professor)
+Education->
+Ph.D
+
+76. Mr. Binay Kumar	(Assistant Professor)
+Education->
+M.Tech
+
+77. Dr. Hriday K Gupta	(Associate Professor)
+Education->	
+Ph.D
+
+78. Dr. Pawan Kumar Mishra	(Associate Professor)
+Education->
+Ph.D
+
+79. Dr. Ankit Tomar	(Associate Professor)	
+Education->
+Ph.D
+
+80. Dr. Hemant Singh Pokhariya	(Associate Professor)	
+Education->
+Ph.D
+
+81. Dr. Preeti	(Assistant Professor)	
+Education->
+Ph.D
+
+82. Mr.Aditya Joshi	(Assistant Professor)	
+Education->
+M.Tech
+
+83. Ms. Sreedevi R. Nagarmunoli	(Assistant Professor)	
+Education->
+M.Tech
+
+84. Mr. Sanjeev Kukreti	(Assistant Professor)	
+Education->
+M.Tech
+
+85. Mr.Basavaraj A Patil	(Assistant Professor)	
+Education->
+M.E
+
+86. Mr. Ramesh Singh Rawat	(Assistant Professor)	
+Education->
+M.Tech
+
+87. Mr. Sanjay Roka	(Assistant Professor)	
+Education->
+M.Tech
+
+88. Mr. Mudit Mittal	(Assistant Professor)	
+Education->
+M.Tech
+
+89. Mr. Rishi Kumar	(Assistant Professor)	
+Education->
+M.Tech
+
+90. Dr. Anita Saroj	(Assistant Professor)	
+Education->
+Ph.D
+
+91. Dr. Hradesh Kumar	(Assistant Professor)	
+Education->
+Ph.D
+
+92. Mr. Mohd. Rehan	(Assistant Professor)	
+Education->
+M.Tech
+
+93. Mr. Shiv Ashish Dhondiyal	(Assistant Professor)	
+Education->
+M.Tech
+
+94. Ms. Sarishma	(Assistant Professor)	
+Education->
+M.Tech
+
+95. Mr. Priyank Pandey	(Assistant Professor)	
+Education->
+M.Tech
+
+96. Ms. Meenakshi Maindola	(Assistant Professor)	
+Education->
+MTech
+
+97. Mr. Yuvraj Joshi	(Assistant Professor)	
+Education->
+M.Tech
+
+98. Ms. Ankita Nainwal	(Assistant Professor)	
+Education->
+M.Tech
+
+99. Dr. Upma Jain	(Assistant Professor)	
+Education->
+Ph.D
+
+100. Ms. Vishu Tyagi	(Assistant Professor)	
+Education->
+M.Tech
+
+101. Mr. Mukesh Singh	(Assistant Professor)	
+Education->
+M.Tech
+
+102. Mr. Yogesh Lohumi	(Assistant Professor)	
+Education->
+M.Tech
+
+103. Mr. Siddhant Thapliyal	(Assistant Professor)	
+Education->
+M.Tech
+
+104. Mr. Jagdish Chandola	(Assistant Professor)	
+Education->
+M.Tech
+
+105. Mr. Pramod Mehra	(Assistant Professor)	
+Education->
+M.Tech
+
+106. Mr. Rohan Verma	(Assistant Professor)	
+Education->
+M.Tech
+
+107. Mr. Mudit Mittal	(Assistant Professor)	
+Education->
+M.Tech
+
+108. Dr. Ashwini Kumar Singh	(Associate Professor)	
+Education->
+Ph.D
+
+109. Dr. Harsh Taneja	(Associate Professor)	
+Education->
+Ph.D
+
+110. Dr. Teekam Singh	(Associate Professor)	
+Education->
+Ph.D
+
+111. Dr. Ankur Choudhary	(Associate Professor)	
+Education->
+Ph.D
+
+112. Dr. Noor Mohd	(Associate Professor)	
+Education->
+Ph.D
+
+113. Dr. Umesh Kumar Tiwari	(Professor)	
+Education->
+Ph.D
+
+114. Dr. S. Punitha	(Associate Professor)	
+Education->
+Ph.D
+
+115. Mr. Harendra Singh Negi	(Assistant Professor)	
+Education->
+M.Tech
+
+116. Mr. Jai Shankar Bhatt	(Assistant Professor)	
+Education->
+M.Tech
+
+117. Mr. Gulshan Dhasmana	(Assistant Professor)	
+Education->
+M.Tech
+
+118. Ms. Shivangi Barthwal	(Assistant Professor)	
+Education->
+M.Tech
+
+119. Ms. Supriya Awasthy	(Assistant Professor)	
+Education->
+MCA
+
+120. Ms. Rashmi Hebbar	(Assistant Professor)	
+Education->
+M.Tech
+
+121. Ms. Neha Belwal	(Assistant Professor)	
+Education->
+M.Tech
+
+122. Dr. Ankit Vishnoi	(Associate Professor)	
+Education->
+Ph.D
+
+123. Mr. Saurabh Kumar Mishra	(Assistant Professor)	
+Education->
+M.Tech
+
+124. Ms. Alankrita Joshi	(Assistant Professor)	
+Education->
+M.Tech
+
+125. Dr. Deepak Gaur	(Associate Professor)	
+Education->
+Ph.D
