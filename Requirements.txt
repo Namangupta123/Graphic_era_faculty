@@ -1,4 +1,5 @@
 streamlit
+langchain
 langchain-cohere
 langchain-community
 langchain-huggingface
