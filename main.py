@@ -70,7 +70,7 @@ def format_docs(docs):
 
 def generate_answer(question, retriever):
     try:
-        cohere_llm=ChatCohere(model="command-r7b-12-2024", cohere_api_key=Cohere_API, temperature=0.3)
+        cohere_llm=ChatCohere(model="command-r7b-12-2024", cohere_api_key=Cohere_API, temperature=0.5)
         prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible:
                                 - If the question asks about a specific faculty member, summarize their profile based on the available information.
                                 - If the question asks about a certain piece of information (e.g., research areas, achievements, roles, or designations like HOD), extract and present the relevant details from the context.
@@ -119,7 +119,7 @@ def main():
             if vectorstore is None:
                 return
 
-            retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+            retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 8})
 
             if question:
                 answer = generate_answer(question, retriever)
