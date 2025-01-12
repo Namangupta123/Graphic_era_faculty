@@ -5,10 +5,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
-from dotenv import load_dotenv
 import re
 
-load_dotenv()
 Cohere_API=st.secrets["API_KEYS"]["COHERE_API_KEY"]
 st.set_page_config(
     page_title="Faculty BioGen",
