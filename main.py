@@ -6,11 +6,9 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
-import os
 import re
 
 load_dotenv()
-#Cohere_AI=os.getenv("COHERE_API_KEY")
 Cohere_API=st.secrets["API_KEYS"]["COHERE_API_KEY"]
 st.set_page_config(
     page_title="Faculty BioGen",
@@ -78,7 +76,7 @@ def generate_answer(question, retriever):
         prompt_template = """Using the provided context, answer the question as accurately and comprehensively as possible:
                                 - If the question asks about a specific faculty member, summarize their profile based on the available information.
                                 - If the question asks about a certain piece of information (e.g., research areas, achievements, roles, or designations like HOD), extract and present the relevant details from the context.
-                                - If the question asks about faculty members in a specific role (e.g., "Who is the HOD?"), identify and present the corresponding faculty member and their designation from the context.
+                                - If the question asks about faculty members in a specific role, identify and present the corresponding faculty member and their designation from the context.
                                 - If the requested information is not found in the context, respond with: "Sorry, the requested information is not available in the provided context."
 
                             Context: 
@@ -86,7 +84,7 @@ def generate_answer(question, retriever):
                             
                             Question: 
                             {question}
-                            
+
                             Answer:"""
 
         prompt = PromptTemplate.from_template(template=prompt_template)
